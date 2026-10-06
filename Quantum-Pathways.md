@@ -576,7 +576,7 @@ An AI assistant trained on this document can serve as a first-pass editor for au
 **What is protected by the license:**
 - The text of this document — as a literary work. No one may copy it without permission.
 - The system of terms and definitions — as a compilation, in the form expressed in this document. Someone may write "entangled particles as navigation beacons" but may not copy this system of 20+ interconnected definitions.
-- The combination of assumptions — the specific linkage of unified temporal field + multiverse layer + spin as path carrier + entanglement as path narrowing + anchor + synchronizer + three pulses — as an original compilation.
+- The combination of assumptions — the specific linkage of unified temporal field + multiverse layer + spin as path carrier + entanglement as path narrowing + anchor + synchronizer + two pulses — as an original compilation.
 
 **What is not protected:**
 - Individual terms ("anchor," "synchronizer") in common usage.
